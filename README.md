@@ -10,6 +10,10 @@ The HR Data Analysis project involves the extraction, processing, and visualizat
   * **Excel Integration:** The Excel files containing the query results were used to structure and store data, making it easier to upload into Power BI for visualization.
   * **Visualization:** The processed data in Excel files was visualized using Power BI, where interactive reports were created to display key insights. The reports include various charts and graphs to represent employee demographics, performance metrics, and attrition rates.
 
+## HR Employee Distribution Report
+![Screenshot (253)](https://github.com/user-attachments/assets/5da7644d-95e1-4ca3-83de-50ad6021123d)
+![Screenshot (254)](https://github.com/user-attachments/assets/9c1a497d-93f5-451b-84d7-57186188955e)
+
 ## Tools Used
   * **SQL:** For data querying, manipulation, and analysis.
   * **Excel:** For storing the results of SQL queries and further data processing.
